@@ -1,9 +1,11 @@
+![header](https://capsule-render.vercel.app/api?type=Wave)
+
 <h1><a href="https://emoji.gg/emoji/5306-black-sparkles"><img src="https://cdn3.emoji.gg/emojis/5306-black-sparkles.gif" width="40px" height="40px" alt="black_sparkles"></a> Hi! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm MinJeong Han, Student from <a href="https://emoji.gg/emoji/2374-sk"><img src="https://cdn3.emoji.gg/emojis/2374-sk.png" width="18px" height="18px" alt="SK"></a> <b>Seoul, South Korea</b>. </p>
+<p>Welcome to my page! </br> I'm MinJeong Han, Student in <a href="https://emoji.gg/emoji/2374-sk"><img src="https://cdn3.emoji.gg/emojis/2374-sk.png" width="18px" height="18px" alt="SK"></a> <b>Seoul, South Korea</b>. </p>
 
-<h3> I'm learning to <a href="https://emoji.gg/emoji/8995-purple-fire-flames"><img src="https://cdn3.emoji.gg/emojis/8995-purple-fire-flames.gif" width="40px" height="40px" alt="purple_fire_flames"></a> </h3>
-<div align=center> 
+<h3> I've used it once... <a href="https://emoji.gg/emoji/8995-purple-fire-flames"><img src="https://cdn3.emoji.gg/emojis/8995-purple-fire-flames.gif" width="40px" height="40px" alt="purple_fire_flames"></a> </h3>
+<div align=left> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C%2B%2B&logoColor=white">
@@ -26,3 +28,10 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
 </div>
+<hr>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1anminJ&exclude_repo=dkssud8150.github.io&layout=compact" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=1anminJ&show_icons=true" width="42%" />
+</a>
