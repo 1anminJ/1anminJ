@@ -27,6 +27,7 @@
 <hr>
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Han-MinJ&exclude_repo=dkssud8150.github.io&layout=compact" />
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Han-MinJ=anuraghazra&layout=compact)
 </a>
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=1anminJ&show_icons=true" width="50%" />
