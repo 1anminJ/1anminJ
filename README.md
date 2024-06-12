@@ -25,9 +25,9 @@
   <br>
 </div>
 <hr>
-<a href="s">
+<!-- <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1anminJ&exclude_repo=dkssud8150.github.io&layout=compact" />
 </a>
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=1anminJ&show_icons=true" width="50%" />
-</a>
+</a> -->
