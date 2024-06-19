@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Wave)
 <div align="center"> 
-<h1><a href="https://emoji.gg/emoji/5306-black-sparkles"><img src="https://cdn3.emoji.gg/emojis/5306-black-sparkles.gif" width="40px" height="40px" alt="black_sparkles"></a>Hi! Nice to see you. I'm MinJeong !</h1>
+<h1><a href="https://emoji.gg/emoji/5306-black-sparkles"><img src="https://cdn3.emoji.gg/emojis/5306-black-sparkles.gif" width="40px" height="40px" alt="black_sparkles"></a>Hi! Nice to see you ! </h1>
 
 <a href="https://emoji.gg/emoji/8995-purple-fire-flames"><img src="https://cdn3.emoji.gg/emojis/8995-purple-fire-flames.gif" width="40px" height="40px" alt="purple_fire_flames"></a> </h3>
 <div align="center"> 
