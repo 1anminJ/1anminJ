@@ -1,11 +1,15 @@
-![header](https://capsule-render.vercel.app/api?type=Wave)
-<div align="center"> 
-<h1><a href="https://emoji.gg/emoji/5306-black-sparkles"><img src="https://cdn3.emoji.gg/emojis/5306-black-sparkles.gif" width="40px" height="40px" alt="black_sparkles"></a>Hi! Nice to see you ! </h1>
+![slice](https://capsule-render.vercel.app/api?type=slice&color=82b1ff&height=200&text=Hi%20There!&fontAlign=75&rotate=13&fontAlignY=25&desc=Welcome%20to%201anminJ's%20GitHub.&descAlign=80&descAlignY=44&fontColor=ffffff)
 
-<a href="https://emoji.gg/emoji/8995-purple-fire-flames"><img src="https://cdn3.emoji.gg/emojis/8995-purple-fire-flames.gif" width="40px" height="40px" alt="purple_fire_flames"></a> </h3>
-<div align="center"> 
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-  
+
+<div align="center">
+  <h3>SNS<a href="https://emoji.gg/emoji/52983-gummydragon-06"><img src="https://cdn3.emoji.gg/emojis/52983-gummydragon-06.gif" width="32px" height="32px" alt="GummyDragon_06"></a></h3>
+  <span>
+    <!-- sns 계정 링크 -->
+    <a href="https://www.instagram.com/_axsw_x/">
+      <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
+    </a>
+  </span>
+  <h3><a href="https://emoji.gg/emoji/47580-gummydragon-12"><img src="https://cdn3.emoji.gg/emojis/47580-gummydragon-12.gif" width="32px" height="32px" alt="GummyDragon_12"></a></h3>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <br>
@@ -24,13 +28,12 @@
   <br>
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  
 </div>
-<hr>
+<br><br>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1anminJ&layout=compact&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1anminJ&layout=compact&theme=default"/>
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=1anminJ&show_icons=true&theme=dracula" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=1anminJ&show_icons=true&theme=default" width="50%"/>
 </a>
 </div>
