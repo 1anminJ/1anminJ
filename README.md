@@ -5,7 +5,7 @@
   <h3>SNS<a href="https://emoji.gg/emoji/52983-gummydragon-06"><img src="https://cdn3.emoji.gg/emojis/52983-gummydragon-06.gif" width="32px" height="32px" alt="GummyDragon_06"></a></h3>
   <span>
     <!-- sns 계정 링크 -->
-    <a href="https://www.instagram.com/_axsw_x/">
+    <a href="https://www.instagram.com/1anminj_/">
       <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
     </a>
   </span>
