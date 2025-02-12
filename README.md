@@ -30,7 +30,9 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
 <br><br>
-<a href="s">
+</div>
+<div align="center">
+  <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1anminJ&layout=compact&theme=default" width="38%"/>
 </a>
 <a href="s">
