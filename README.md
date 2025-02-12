@@ -2,7 +2,11 @@
 
 
 <div align="center">
-  <h3>SNS<a href="https://emoji.gg/emoji/52983-gummydragon-06"><img src="https://cdn3.emoji.gg/emojis/52983-gummydragon-06.gif" width="32px" height="32px" alt="GummyDragon_06"></a></h3>
+  <h3>
+    <a href="https://emoji.gg/emoji/58497-gummydragon-35"><img src="https://cdn3.emoji.gg/emojis/58497-gummydragon-35.gif" width="34px" height="34px" alt="GummyDragon_35"></a>
+    SNS 
+    <a href="https://emoji.gg/emoji/87431-gummydragon-34"><img src="https://cdn3.emoji.gg/emojis/87431-gummydragon-34.gif" width="34px" height="34px" alt="GummyDragon_34"></a>
+  </h3>
   <span>
     <!-- sns 계정 링크 -->
     <a href="https://www.instagram.com/1anminj_/">
@@ -32,6 +36,7 @@
 <br><br>
 </div>
 <div align="center">
+  <a href="https://emoji.gg/emoji/52983-gummydragon-06"><img src="https://cdn3.emoji.gg/emojis/52983-gummydragon-06.gif" width="32px" height="32px" alt="GummyDragon_06"></a><br>
   <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1anminJ&layout=compact&theme=default" width="38%"/>
 </a>
