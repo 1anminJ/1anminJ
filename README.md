@@ -1,4 +1,4 @@
-![slice](https://capsule-render.vercel.app/api?type=slice&color=82b1ff&height=200&text=Hi%20There!&fontAlign=75&rotate=13&fontAlignY=25&desc=Welcome%20to%201anminJ's%20GitHub.&descAlign=80&descAlignY=44&fontColor=ffffff)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=82b1ff&height=200&text=Hi%20There!🫧&fontAlign=75&rotate=13&fontAlignY=25&descAlign=80&descAlignY=44&fontColor=ffffff)
 
 
 <div align="center">
@@ -31,9 +31,9 @@
 </div>
 <br><br>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1anminJ&layout=compact&theme=default"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1anminJ&layout=compact&theme=default" width="38%"/>
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=1anminJ&show_icons=true&theme=default" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=1anminJ&show_icons=true&theme=default" width="48%"/>
 </a>
 </div>
