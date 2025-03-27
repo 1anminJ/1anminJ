@@ -40,7 +40,4 @@
   <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1anminJ&layout=compact&theme=default" width="38%"/>
 </a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=1anminJ&show_icons=true&theme=default" width="50%"/>
-</a>
 </div>
