@@ -117,7 +117,7 @@
         </div>
       </td>
     </tr>
-    <tr>
+    <!-- <tr>
     <td width="100%">
       <h3 align="center">📁 Project Name</h3>
       <p align="center">
@@ -130,7 +130,7 @@
         </a>
       </div>
     </td>
-  </tr>
+  </tr> -->
   </table>
 
   <br/>
