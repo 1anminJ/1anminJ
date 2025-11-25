@@ -20,7 +20,7 @@
   <br/><br/>
 
   <h3>
-    <a href="https://emoji.gg/emoji/47580-gummydragon-12"><img src="https://cdn3.emoji.gg/emojis/47580-gummydragon-12.gif" width="30px" height="30px" alt="GummyDragon_12"></a>
+    <a href="https://emoji.gg/emoji/70201-gummydragon-32"><img src="https://cdn3.emoji.gg/emojis/70201-gummydragon-32.gif" width="30px" height="30px" alt="GummyDragon_32"></a>
     Backend
   </h3>
 
@@ -40,7 +40,7 @@
   <br/>
 
   <h3>
-    <a href="https://emoji.gg/emoji/11995-gummydragon-28"><img src="https://cdn3.emoji.gg/emojis/11995-gummydragon-28.gif" width="30px" height="30px" alt="GummyDragon_28"></a>
+    <a href="https://emoji.gg/emoji/4337-gummydragon-13"><img src="https://cdn3.emoji.gg/emojis/4337-gummydragon-13.gif" width="32px" height="32px" alt="GummyDragon_13"></a>
     Frontend & Mobile
   </h3>
 
@@ -85,7 +85,7 @@
   <br/>
 
   <h3>
-    <a href="https://emoji.gg/emoji/84379-gummydragon-26"><img src="https://cdn3.emoji.gg/emojis/84379-gummydragon-26.gif" width="30px" height="30px" alt="GummyDragon_26"></a>
+    <a href="https://emoji.gg/emoji/67366-gummydragon-25"><img src="https://cdn3.emoji.gg/emojis/67366-gummydragon-25.gif" width="30px" height="30px" alt="GummyDragon_25"></a>
     Tools
   </h3>
 
@@ -105,7 +105,7 @@
   <br/>
 
   <h3>
-    <a href="https://emoji.gg/emoji/5063-gummydragon-01"><img src="https://cdn3.emoji.gg/emojis/5063-gummydragon-01.gif" width="30px" height="30px" alt="GummyDragon_01"></a>
+    <a href="https://emoji.gg/emoji/17237-gummydragon-10"><img src="https://cdn3.emoji.gg/emojis/17237-gummydragon-10.gif" width="30px" height="30px" alt="GummyDragon_10"></a>
     Projects
   </h3>
 
@@ -129,7 +129,7 @@
   <br/>
 
   <h3>
-    <a href="https://emoji.gg/emoji/2202-gummydragon-05"><img src="https://cdn3.emoji.gg/emojis/2202-gummydragon-05.gif" width="30px" height="30px" alt="GummyDragon_05"></a>
+    <a href="https://emoji.gg/emoji/47580-gummydragon-12"><img src="https://cdn3.emoji.gg/emojis/47580-gummydragon-12.gif" width="30px" height="30px" alt="GummyDragon_12"></a>
     Stats
   </h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1anminJ&layout=compact&theme=default" width=38%/>
