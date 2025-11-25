@@ -90,9 +90,16 @@
   </h3>
 
   <div>
+    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+    <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white">
+    <img src="https://img.shields.io/badge/CLion-000000.svg?style=for-the-badge&logo=clion&logoColor=white">
+  </div>
+
+  <div>
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+    <img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white">
   </div>
 
   <br/>
@@ -117,20 +124,6 @@
         </div>
       </td>
     </tr>
-    <!-- <tr>
-    <td width="100%">
-      <h3 align="center">📁 Project Name</h3>
-      <p align="center">
-        <b>"한 줄 소개 문구를 입력하세요"</b><br>
-        프로젝트에 대한 간단한 설명을 이곳에 작성하세요. (사용 기술 등)
-      </p>
-      <div align="center">
-        <a href="URL_HERE">
-          <img src="https://img.shields.io/badge/GitHub_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </div>
-    </td>
-  </tr> -->
   </table>
 
   <br/>
@@ -139,6 +132,7 @@
     <a href="https://emoji.gg/emoji/2202-gummydragon-05"><img src="https://cdn3.emoji.gg/emojis/2202-gummydragon-05.gif" width="30px" height="30px" alt="GummyDragon_05"></a>
     Stats
   </h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1anminJ&layout=compact&theme=default" width="38%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1anminJ&layout=compact&theme=default" width=38%/>
+
 
 </div>
