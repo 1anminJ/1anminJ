@@ -9,7 +9,7 @@
   </h3>
   
   <div>
-    <a href="https://www.instagram.com/1anminj_/">
+    <a href="https://www.instagram.com/1anminx_/">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
     </a>
     <a href="https://www.linkedin.com/in/1anminJ/">
