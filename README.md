@@ -9,14 +9,17 @@
   </h3>
 
   <div>
+    <a href="https://1anminj.github.io/portfolio/">
+      <img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+    <a href="mailto:mjeoung413@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
     <a href="https://www.instagram.com/1anminx_/">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
     </a>
     <a href="https://www.linkedin.com/in/1anminJ/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="https://1anminj.github.io/portfolio/">
-      <img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
   </div>
 
