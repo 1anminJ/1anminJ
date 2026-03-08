@@ -54,6 +54,7 @@
   <br/>
 
   <h3>
+    <a href="https://emoji.gg/emoji/67366-gummydragon-25"><img src="https://cdn3.emoji.gg/emojis/67366-gummydragon-25.gif" width="30px" height="30px" alt="GummyDragon_25"></a>
     Infra & DevOps
   </h3>
 
@@ -75,6 +76,7 @@
   <br/>
 
   <h3>
+    <a href="https://emoji.gg/emoji/52983-gummydragon-06"><img src="https://cdn3.emoji.gg/emojis/52983-gummydragon-06.gif" width="30px" height="30px" alt="GummyDragon_06"></a>
     Database
   </h3>
 
@@ -83,11 +85,13 @@
     <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
     <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
   </div>
 
   <br/>
   
   <h3>
+    <a href="https://emoji.gg/emoji/63268-gummydragon-17"><img src="https://cdn3.emoji.gg/emojis/63268-gummydragon-17.gif" width="30px" height="30px" alt="GummyDragon_17"></a>
     Tools
   </h3>
 
@@ -99,7 +103,7 @@
   <br/>
 
   <h3>
-  <a href="https://emoji.gg/emoji/67366-gummydragon-25"><img src="https://cdn3.emoji.gg/emojis/67366-gummydragon-25.gif" width="30px" height="30px" alt="GummyDragon_25"></a>
+    <a href="https://emoji.gg/emoji/17237-gummydragon-10"><img src="https://cdn3.emoji.gg/emojis/17237-gummydragon-10.gif" width="30px" height="30px" alt="GummyDragon_10"></a>
     Awards & Patent
   </h3>
 
@@ -161,10 +165,10 @@
     </tr>
   </table>
 
-  </br>
+  <br/>
 
   <h3>
-    <a href="https://emoji.gg/emoji/17237-gummydragon-10"><img src="https://cdn3.emoji.gg/emojis/17237-gummydragon-10.gif" width="30px" height="30px" alt="GummyDragon_10"></a>
+    <a href="https://emoji.gg/emoji/47580-gummydragon-12"><img src="https://cdn3.emoji.gg/emojis/47580-gummydragon-12.gif" width="30px" height="30px" alt="GummyDragon_12"></a>
     Projects
   </h3>
 
