@@ -27,7 +27,7 @@
 
   <h3>
     <a href="https://emoji.gg/emoji/70201-gummydragon-32"><img src="https://cdn3.emoji.gg/emojis/70201-gummydragon-32.gif" width="30px" height="30px" alt="GummyDragon_32"></a>
-    Backend
+    Main Stack
   </h3>
 
   <div>
@@ -45,24 +45,15 @@
     <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white">
   </div>
 
-  <br/>
-
-  <h3>
-    <a href="https://emoji.gg/emoji/4337-gummydragon-13"><img src="https://cdn3.emoji.gg/emojis/4337-gummydragon-13.gif" width="32px" height="32px" alt="GummyDragon_13"></a>
-    Frontend
-  </h3>
-
   <div>
-    <img src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
+    <img src="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
   </div>
 
   <br/>
 
   <h3>
-    <a href="https://emoji.gg/emoji/52983-gummydragon-06"><img src="https://cdn3.emoji.gg/emojis/52983-gummydragon-06.gif" width="30px" height="30px" alt="GummyDragon_06"></a>
     Infra & DevOps
   </h3>
 
@@ -84,7 +75,6 @@
   <br/>
 
   <h3>
-    <a href="https://emoji.gg/emoji/52983-gummydragon-06"><img src="https://cdn3.emoji.gg/emojis/52983-gummydragon-06.gif" width="30px" height="30px" alt="GummyDragon_06"></a>
     Database
   </h3>
 
@@ -96,29 +86,20 @@
   </div>
 
   <br/>
-
+  
   <h3>
-    <a href="https://emoji.gg/emoji/67366-gummydragon-25"><img src="https://cdn3.emoji.gg/emojis/67366-gummydragon-25.gif" width="30px" height="30px" alt="GummyDragon_25"></a>
     Tools
   </h3>
 
   <div>
-    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
-    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  </div>
-
-  <div>
     <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-    <img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white">
   </div>
 
   <br/>
 
   <h3>
-    <a href="https://emoji.gg/emoji/17237-gummydragon-10"><img src="https://cdn3.emoji.gg/emojis/17237-gummydragon-10.gif" width="30px" height="30px" alt="GummyDragon_10"></a>
+  <a href="https://emoji.gg/emoji/67366-gummydragon-25"><img src="https://cdn3.emoji.gg/emojis/67366-gummydragon-25.gif" width="30px" height="30px" alt="GummyDragon_25"></a>
     Awards & Patent
   </h3>
 
